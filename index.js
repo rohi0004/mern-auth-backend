@@ -12,6 +12,7 @@ const uri = process.env.URI
 const authRoutes = require('./routes/authRoutes')
 
 const allowedOrigins = [
+  'https://mern-auth-frontend-m65x.onrender.com/',
   'http://localhost:5173',
 ]
 
