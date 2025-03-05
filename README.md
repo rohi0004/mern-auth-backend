@@ -1,5 +1,6 @@
 # MERN Authentication Backend
-[Live Demo](https://mern-auth-backend-9nx9.onrender.com)
+**Backend** [Live Demo](https://mern-auth-backend-9nx9.onrender.com)
+**Frontend**[Live Demo](https://mern-auth-frontend-5h4z.vercel.app/)
 
 Welcome to the backend of the MERN Authentication system. This project provides the authentication API for a user authentication system using **JSON Web Tokens (JWT)**. It allows for user registration, login, password reset, OTP generation/verification, and protected routes for authorized users.
 
